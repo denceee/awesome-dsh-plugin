@@ -1,0 +1,6 @@
+url: https://github.com/denceee/dsh-everything-claude-code
+name: denceee/dsh-everything-claude-code
+category: skill
+description:
+  en: 'Ports everything-claude-code to DeepSeek Harness as 11 registered skills, an "Everything Claude Code" agent preset, adapted Claude Code hooks, and a Settings page.'
+  zh: '把 everything-claude-code 移植到 DeepSeek Harness：11 个已注册技能、一个「Everything Claude Code」Agent 预设、适配后的 Claude Code 钩子，以及一个设置页面。'
